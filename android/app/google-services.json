@@ -1,0 +1,121 @@
+{
+  "project_info": {
+    "project_number": "387981343026",
+    "project_id": "waayu-6c43e",
+    "storage_bucket": "waayu-6c43e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:387981343026:android:8e093f2962e47f35e6bf2b",
+        "android_client_info": {
+          "package_name": "com.waayu.customer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "387981343026-56p6ctqmsm8iameagtolkudf15lrqbdd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.waayu.customer",
+            "certificate_hash": "38dc07dd84ba23605d491bcf60b03b4fc29317bc"
+          }
+        },
+        {
+          "client_id": "387981343026-futjnm5ijedcih01vg8srd4s7esk4jo5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDreN04L0HerrzODltEdjhK0boIV01gdS4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "387981343026-futjnm5ijedcih01vg8srd4s7esk4jo5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:387981343026:android:d863406f5597e4ffe6bf2b",
+        "android_client_info": {
+          "package_name": "com.waayu.delivery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "387981343026-rh91dprh7l4groiufkq7fgik8n7iq32h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.waayu.delivery",
+            "certificate_hash": "38dc07dd84ba23605d491bcf60b03b4fc29317bc"
+          }
+        },
+        {
+          "client_id": "387981343026-futjnm5ijedcih01vg8srd4s7esk4jo5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDreN04L0HerrzODltEdjhK0boIV01gdS4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "387981343026-futjnm5ijedcih01vg8srd4s7esk4jo5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:387981343026:android:4285321ac7918c85e6bf2b",
+        "android_client_info": {
+          "package_name": "com.waayu.owner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "387981343026-7avo7enq0nbsboa5bpotcaq3l0b5q83d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.waayu.owner",
+            "certificate_hash": "38dc07dd84ba23605d491bcf60b03b4fc29317bc"
+          }
+        },
+        {
+          "client_id": "387981343026-futjnm5ijedcih01vg8srd4s7esk4jo5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDreN04L0HerrzODltEdjhK0boIV01gdS4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "387981343026-futjnm5ijedcih01vg8srd4s7esk4jo5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
